@@ -1,0 +1,190 @@
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 1708ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1876ms (604 modules)
+ ✓ Compiled in 132ms (259 modules)
+ GET / 200 in 2082ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 949ms (359 modules)
+ GET /favicon.ico 200 in 992ms
+ GET / 200 in 119ms
+ ✓ Compiled /storefront in 315ms (641 modules)
+ ✓ Compiled /admin in 117ms (644 modules)
+ ✓ Compiled /orders in 125ms (646 modules)
+ ✓ Compiled in 97ms (330 modules)
+ ✓ Compiled in 81ms (263 modules)
+ GET / 500 in 84ms
+ GET / 500 in 21ms
+ GET /favicon.ico 200 in 135ms
+ GET /favicon.ico 200 in 3ms
+ ○ Compiling /favicon.ico ...
+ GET / 200 in 129ms
+ GET / 500 in 126ms
+ GET / 500 in 37ms
+ GET /favicon.ico 200 in 103ms
+ GET /favicon.ico 200 in 3ms
+ GET / 200 in 6ms
+ GET / 500 in 157ms
+ GET / 500 in 69ms
+ GET / 500 in 17ms
+ GET / 500 in 19ms
+ GET /favicon.ico 200 in 8ms
+ GET /favicon.ico 200 in 3ms
+ GET / 200 in 289ms
+ GET / 200 in 86ms
+ GET / 200 in 78ms
+ GET / 200 in 32ms
+ GET /favicon.ico 200 in 128ms
+ GET /favicon.ico 200 in 3ms
+ GET / 500 in 5ms
+ GET / 500 in 6ms
+ ✓ Compiled /_error in 102ms (452 modules)
+ ✓ Compiled /_not-found in 456ms (852 modules)
+ GET / 200 in 453ms
+ GET / 200 in 8ms
+ GET /_next/static/webpack/1743cf63df185757.webpack.hot-update.json 404 in 552ms
+ GET / 200 in 40ms
+ GET /_next/static/webpack/1743cf63df185757.webpack.hot-update.json 404 in 36ms
+ GET / 200 in 72ms
+ GET / 200 in 23ms
+ ✓ Compiled /favicon.ico in 77ms (430 modules)
+ GET /favicon.ico 200 in 114ms
+ GET /favicon.ico 200 in 3ms
+ ✓ Compiled /products in 270ms (838 modules)
+ ✓ Compiled /cart in 368ms (890 modules)
+ GET /cart 200 in 76ms
+ ✓ Compiled /_not-found in 111ms (893 modules)
+ ✓ Compiled /_error in 162ms (895 modules)
+ GET /_next/static/css/app/layout.css?v=1779013035504 500 in 303ms
+ GET /_next/static/chunks/main-app.js?v=1779013035504 500 in 296ms
+ GET /_next/static/chunks/app-pages-internals.js 500 in 296ms
+ ✓ Compiled /favicon.ico in 105ms (463 modules)
+ GET /favicon.ico 200 in 138ms
+ GET /cart 200 in 84ms
+ GET /_next/static/css/app/layout.css?v=1779013037439 500 in 10ms
+ GET /_next/static/chunks/app-pages-internals.js 500 in 10ms
+ GET /_next/static/chunks/main-app.js?v=1779013037439 500 in 10ms
+ GET /favicon.ico 200 in 3ms
+ ✓ Compiled /confirmation in 141ms (931 modules)
+ ✓ Compiled in 644ms (904 modules)
+ ✓ Compiled in 127ms (475 modules)
+ ✓ Compiled in 334ms (905 modules)
+ ✓ Compiled in 291ms (897 modules)
+ ✓ Compiled in 256ms (897 modules)
+ GET /products 200 in 72ms
+ ✓ Compiled /_not-found in 276ms (886 modules)
+ GET /_next/static/css/app/layout.css?v=1779013573158 404 in 356ms
+ GET /_next/static/chunks/webpack.js?v=1779013573158 404 in 348ms
+ GET /_next/static/chunks/main-app.js?v=1779013573158 404 in 349ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 347ms
+ GET /_next/static/chunks/app/products/page.js 404 in 347ms
+ ✓ Compiled /favicon.ico in 89ms (455 modules)
+ GET /favicon.ico 200 in 126ms
+ GET /products 200 in 77ms
+ GET /_next/static/css/app/layout.css?v=1779013574990 404 in 14ms
+ GET /_next/static/chunks/main-app.js?v=1779013574990 404 in 15ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 15ms
+ GET /_next/static/chunks/app/products/page.js 404 in 14ms
+ GET /favicon.ico 200 in 3ms
+ ✓ Compiled / in 198ms (463 modules)
+ GET / 200 in 297ms
+ GET /_next/static/css/app/layout.css?v=1779013577954 404 in 13ms
+ GET /_next/static/chunks/main-app.js?v=1779013577954 404 in 16ms
+ GET /_next/static/chunks/app/page.js 404 in 14ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 16ms
+ GET / 200 in 66ms
+ GET /_next/static/css/app/layout.css?v=1779013578245 404 in 33ms
+ GET /_next/static/chunks/main-app.js?v=1779013578245 404 in 33ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 33ms
+ GET /_next/static/chunks/app/page.js 404 in 33ms
+ GET / 200 in 65ms
+ GET /_next/static/css/app/layout.css?v=1779013595800 404 in 12ms
+ GET /_next/static/chunks/main-app.js?v=1779013595800 404 in 45ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 45ms
+ GET /_next/static/chunks/app/page.js 404 in 45ms
+ GET /favicon.ico 200 in 9ms
+ GET / 200 in 36ms
+ GET /_next/static/css/app/layout.css?v=1779013603718 404 in 12ms
+ GET /_next/static/chunks/app/page.js 404 in 44ms
+ GET /_next/static/chunks/main-app.js?v=1779013603718 404 in 46ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 45ms
+ GET /favicon.ico 200 in 3ms
+ GET / 200 in 61ms
+ GET /_next/static/css/app/layout.css?v=1779013604109 404 in 34ms
+ GET /_next/static/chunks/app/page.js 404 in 38ms
+ GET /_next/static/chunks/main-app.js?v=1779013604109 404 in 40ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 39ms
+ GET /favicon.ico 200 in 4ms
+ GET / 200 in 76ms
+ GET /_next/static/css/app/layout.css?v=1779013604365 404 in 28ms
+ GET /_next/static/chunks/main-app.js?v=1779013604365 404 in 28ms
+ GET /_next/static/chunks/app/page.js 404 in 28ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 28ms
+ GET /favicon.ico 200 in 3ms
+ GET /cart 200 in 78ms
+ GET /_next/static/css/app/layout.css?v=1779013606655 404 in 50ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 52ms
+ GET /_next/static/chunks/app/cart/page.js 404 in 53ms
+ GET /_next/static/chunks/main-app.js?v=1779013606655 404 in 56ms
+ GET /favicon.ico 200 in 3ms
+ GET /cart 200 in 58ms
+ GET /_next/static/css/app/layout.css?v=1779013607158 404 in 34ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 35ms
+ GET /_next/static/chunks/app/cart/page.js 404 in 35ms
+ GET /_next/static/chunks/main-app.js?v=1779013607158 404 in 38ms
+ GET /favicon.ico 200 in 4ms
+ ✓ Compiled in 1048ms (905 modules)
+ GET /cart 200 in 102ms
+ ✓ Compiled /_not-found in 100ms (894 modules)
+ ✓ Compiled /_error in 119ms (896 modules)
+ GET / 200 in 131ms
+ GET /_next/static/css/app/layout.css?v=1779013816434 500 in 7ms
+ GET /_next/static/chunks/main-app.js?v=1779013816434 500 in 9ms
+ GET /_next/static/chunks/app-pages-internals.js 500 in 8ms
+ GET /_next/static/chunks/app/page.js 500 in 8ms
+ GET /cart 200 in 73ms
+ GET /_next/static/css/app/layout.css?v=1779013818592 500 in 9ms
+ GET /_next/static/chunks/main-app.js?v=1779013818592 500 in 18ms
+ GET /_next/static/chunks/app/cart/page.js 500 in 17ms
+ GET /_next/static/chunks/app-pages-internals.js 500 in 15ms
+ GET / 200 in 43ms
+ GET /_next/static/css/app/layout.css?v=1779013819629 500 in 14ms
+ GET /_next/static/chunks/main-app.js?v=1779013819629 500 in 13ms
+ GET /_next/static/chunks/app-pages-internals.js 500 in 12ms
+ GET /_next/static/chunks/app/page.js 500 in 12ms
+ GET /cart 200 in 61ms
+ GET /_next/static/css/app/layout.css?v=1779013820454 500 in 10ms
+ GET /_next/static/chunks/main-app.js?v=1779013820454 500 in 10ms
+ GET /_next/static/chunks/app-pages-internals.js 500 in 9ms
+ GET /_next/static/chunks/app/cart/page.js 500 in 8ms
+ ✓ Compiled in 639ms (910 modules)
+ ✓ Compiled in 653ms (910 modules)
+ GET /cart 200 in 47ms
+ ✓ Compiled /_not-found in 307ms (926 modules)
+ GET /favicon.ico 200 in 357ms
+ ✓ Compiled /_error in 141ms (928 modules)
+ GET / 200 in 109ms
+ GET / 200 in 72ms
+ GET /favicon.ico 200 in 8ms
+ GET / 200 in 70ms
+ GET /favicon.ico 200 in 5ms
+ GET / 200 in 58ms
+ GET /cart 200 in 59ms
+ GET /cart 200 in 64ms
+ GET /favicon.ico 200 in 5ms
+ GET /cart 200 in 60ms
+ GET /favicon.ico 200 in 5ms
+ GET /cart 200 in 71ms
+ GET /favicon.ico 200 in 3ms
+ GET /cart 200 in 57ms
+ GET /favicon.ico 200 in 7ms
+ GET / 200 in 78ms
+ GET / 404 in 4ms

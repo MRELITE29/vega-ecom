@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "vega-b2b-placeholder-dev",
+    "staging": "vega-b2b-placeholder-staging",
+    "production": "vega-b2b-placeholder-prod"
+  }
+}

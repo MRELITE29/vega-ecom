@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.pnp/
+.pnp.js
+.yarn/install-state.gz
+
+# Next.js build and cache outputs
+.next/
+out/
+build/
+dist/
+
+# Firebase build and cache outputs
+.firebase/
+*-debug.log
+*-error.log
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Local environment and secret files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Miscellaneous system files
+.DS_Store
+*.pem
+Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo
